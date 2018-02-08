@@ -1,2 +1,0 @@
-# halowapythontest
-github  practice
