@@ -45,5 +45,5 @@ if len(images) > 0:
         with open('img/' + imageurl.split('/')[-1], 'wb') as f: # imgフォルダに格納
             f.write(re.content) # .contentにて画像データとして書き込む
 
-
-print("halowa!")
+#pushのてすと
+#print("halowa!")
